@@ -4,7 +4,8 @@ arhitekture:
 -gcn http://www.amd.com/us/products/technologies/gcn/Pages/gcn-architecture.aspx
 
 nvidia CUDA http://www.nvidia.co.uk/object/what_is_cuda_new_uk.html
-KEPLER http://www.nvidia.co.uk/object/nvidia-kepler-uk.html
+KEPLER  http://blog.cuvilib.com/2012/03/28/nvidia-cuda-kepler-vs-fermi-architecture/
+	http://www.nvidia.co.uk/object/nvidia-kepler-uk.html
 
 interesno predavanje http://developer.download.nvidia.com/CUDA/training/GTC_Express_David_Luebke_June2011.pdf
 mozda korisno http://www.it.uu.se/katalog/davbl791/gpu_architecture.pdf
@@ -13,5 +14,8 @@ mozda korisno http://www.it.uu.se/katalog/davbl791/gpu_architecture.pdf
 NVIDIA
 FERMI GF100 2010 - http://yourstory.in/2010/11/nvidia-today-announced-the-latest-consumer-gpu-based-on-its-fermi-architecture-worlds-fastest-dx11-gpu/
 	     	   http://www.cs.cmu.edu/afs/cs/academic/class/15869-f11/www/readings/wittenbrink11_fermi.pdf
+
+Sporedba 2010
+http://www.cgchannel.com/2011/10/review-professional-gpus-nvidia-vs-amd-2011/
 
 	     
