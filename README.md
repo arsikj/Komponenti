@@ -1,0 +1,4 @@
+Komponenti
+==========
+
+Seminarska
