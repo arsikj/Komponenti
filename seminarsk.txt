@@ -14,6 +14,8 @@ mozda korisno http://www.it.uu.se/katalog/davbl791/gpu_architecture.pdf
 NVIDIA
 FERMI GF100 2010 - http://yourstory.in/2010/11/nvidia-today-announced-the-latest-consumer-gpu-based-on-its-fermi-architecture-worlds-fastest-dx11-gpu/
 	     	   http://www.cs.cmu.edu/afs/cs/academic/class/15869-f11/www/readings/wittenbrink11_fermi.pdf
+http://en.wikipedia.org/wiki/GeForce
+2010 GF400/500
 
 Sporedba 2010
 http://www.cgchannel.com/2011/10/review-professional-gpus-nvidia-vs-amd-2011/
