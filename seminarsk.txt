@@ -19,3 +19,5 @@ Sporedba 2010
 http://www.cgchannel.com/2011/10/review-professional-gpus-nvidia-vs-amd-2011/
 
 	     
+
+http://www.nvidia.com/content/PDF/kepler/NVIDIA-Kepler-GK110-Architecture-Whitepaper.pdf
