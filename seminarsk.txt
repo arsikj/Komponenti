@@ -23,3 +23,9 @@ http://www.cgchannel.com/2011/10/review-professional-gpus-nvidia-vs-amd-2011/
 	     
 
 http://www.nvidia.com/content/PDF/kepler/NVIDIA-Kepler-GK110-Architecture-Whitepaper.pdf
+
+
+za voved kao
+http://cseweb.ucsd.edu/~marora/files/papers/REReport_ManishArora.pdf
+http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/lecture_notes/gpus.pdf
+http://arkanis.de/weblog/2011-04-02-finished-my-practical-term/gpgpu-origins-and-gpu-hardware-architecture.pdf
